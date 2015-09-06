@@ -48,6 +48,10 @@ Endpoints:
     Backend: ''
     Options:
       health: true
+- Private-IP-Name: ZNC_IP1
+  Private-Port-Name: ZNC_PORT1
+  Private-Port: 8123
+  Public-Port-Name: ZNC_PUBLIC_PORT1
 - Private-IP-Name: EXAMPLE_IP1
   Private-Port-Name: EXAMPLE_PORT2
   Private-Port: 8081
