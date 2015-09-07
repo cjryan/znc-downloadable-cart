@@ -60,9 +60,10 @@ Endpoints:
   Private-Port-Name: EXAMPLE_PORT3
   Private-Port: 8082
   Public-Port-Name: EXAMPLE_PUBLIC_PORT3
-- Private-IP-Name: EXAMPLE_IP2
-  Private-Port-Name: EXAMPLE_PORT4
-  Private-Port: 9090
+- Private-IP-Name:   HTTP_IP
+  Private-Port-Name: ADMIN_PORT
+  Private-Port:      9000
+  Public-Port-Name:  ADMIN_PROXY_PORT
 - Private-IP-Name: SSL_IP
   Private-Port-Name: SSL_PORT
   Private-Port: 8443
