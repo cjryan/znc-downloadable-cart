@@ -56,10 +56,6 @@ Endpoints:
   Private-Port-Name: EXAMPLE_PORT2
   Private-Port: 8081
   Public-Port-Name: EXAMPLE_PUBLIC_PORT2
-- Private-IP-Name: EXAMPLE_IP1
-  Private-Port-Name: EXAMPLE_PORT3
-  Private-Port: 8082
-  Public-Port-Name: EXAMPLE_PUBLIC_PORT3
 - Private-IP-Name:   HTTP_IP
   Private-Port-Name: ADMIN_PORT
   Private-Port:      9000
